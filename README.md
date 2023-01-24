@@ -1,12 +1,21 @@
+<<<<<<< HEAD
 # COVER PAGE DESIGN USING HTML AND CSS
 
 
 ## AIM:
 To design a website to create a webpage displaying the cover page of the book "Responsive Web Design with HTML5 and CSS".
+=======
+# Book CoverPage Design
+
+## AIM:
+
+To design a static web site for a book cover page.
+>>>>>>> 74525d653cdf9098706600c4ef7901ac748f00b5
 
 ## DESIGN STEPS:
 
 ### Step 1:
+<<<<<<< HEAD
 Create a new Django project using  "django-admin startproject",get into the project terminal  and use "python3 manage.py startapp" command.
  
 ### Step 2:
@@ -160,4 +169,32 @@ img {
 ## Result:
 Successfully designed a website to display the cover page of the book "Responsive Web Design with HTML5 and CSS".
 
+=======
+
+
+### Step 2:
+
+
+### Step 3:
+
+
+### Step 4:
+
+
+### Step 5:
+
+### Step 6:
+
+Validate the HTML and CSS code.
+
+### Step 6:
+
+Publish the website in the given URL.
+
+## PROGRAM :
+
+## OUTPUT:
+
+## Result:
+>>>>>>> 74525d653cdf9098706600c4ef7901ac748f00b5
 
